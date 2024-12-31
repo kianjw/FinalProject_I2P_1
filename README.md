@@ -1,7 +1,7 @@
 # NTHU I2P Project: Flappy Bird
 
 **Team Members**: SCLemon, Kian, Mengzhe  
-**[Game Proposal (PDF)](https://github.com/SCLemon/NTHU_I2P_Project/blob/main/Final%20Project%20Proposal.pdf)**  
+**[Game Proposal (PDF)](https://github.com/kianjw/FinalProject_I2P_1/blob/main/Final%20Project%20Proposal.pdf)**  
 
 ---
 
